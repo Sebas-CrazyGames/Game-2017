@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86f549ff319176c44b0b3c19f6c2664b
+timeCreated: 1483467115
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: I Am
+  fontNames:
+  - I Am
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
